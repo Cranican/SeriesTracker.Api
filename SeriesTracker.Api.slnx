@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SeriesTracker.Api.Data/SeriesTracker.Api.Data.csproj" />
+  <Project Path="SeriesTracker.Api.Logic/SeriesTracker.Api.Logic.csproj" />
+  <Project Path="SeriesTracker.Api/SeriesTracker.Api.csproj" />
+</Solution>
